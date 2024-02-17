@@ -1,6 +1,8 @@
 
-* (have not written this one up yet :/ )
 
+Python scripts of Telnet server and client.
 
-* (run sample_server_x.py to create telnet server)
+Important files: 
+* client.py - default client script
+* sample_server1.py - 
 
